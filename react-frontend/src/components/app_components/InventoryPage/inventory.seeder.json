@@ -1,0 +1,42 @@
+[
+    {
+        "stockNo": "RAW-001",
+        "itemName": "Fresh Chicken (Quarter Cut)",
+        "currentStock": 45,
+        "unit": "KG",
+        "reorderLevel": "10 KG",
+        "supplier": "Ayam Fresh Sdn Bhd"
+    },
+    {
+        "stockNo": "RAW-002",
+        "itemName": "Red Bird's Eye Chili (Cili Padi)",
+        "currentStock": 12,
+        "unit": "KG",
+        "reorderLevel": "3 KG",
+        "supplier": "KL Wholesale Market"
+    },
+    {
+        "stockNo": "RAW-003",
+        "itemName": "Cooking Oil",
+        "currentStock": 8,
+        "unit": "Box (17kg)",
+        "reorderLevel": "2 Boxes",
+        "supplier": "Bulk Grocer Co."
+    },
+    {
+        "stockNo": "RAW-004",
+        "itemName": "Cabbage (Side Ulam)",
+        "currentStock": 15,
+        "unit": "KG",
+        "reorderLevel": "5 KG",
+        "supplier": "KL Wholesale Market"
+    },
+    {
+        "stockNo": "RAW-005",
+        "itemName": "Mozzarella Cheese",
+        "currentStock": 5,
+        "unit": "KG",
+        "reorderLevel": "1.5 KG",
+        "supplier": "FoodSupply Co."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "receiptNumber": "20260610-001",
+        "dateTime": 46183.520833333336,
+        "itemsOrdered": "1x AG-101 (Lvl 3), 1x DRK-301",
+        "total": 15.5,
+        "paymentMethod": "Cash",
+        "type": "Dine-in"
+    },
+    {
+        "receiptNumber": "20260610-002",
+        "dateTime": 46183.552083333336,
+        "itemsOrdered": "2x AG-102 (Lvl 5)",
+        "total": 30,
+        "paymentMethod": "DuitNow QR",
+        "type": "Takeaway"
+    },
+    {
+        "receiptNumber": "20260610-003",
+        "dateTime": 46183.58472222222,
+        "itemsOrdered": "1x AG-103, 1x AG-201",
+        "total": 10,
+        "paymentMethod": "Card",
+        "type": "Delivery"
+    }
+]

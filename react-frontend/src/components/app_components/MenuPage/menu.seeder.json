@@ -1,0 +1,32 @@
+[
+    {
+        "productCode": "AG-101",
+        "name": "Regular Ayam Gepuk Set",
+        "category": "Food",
+        "price": 12
+    },
+    {
+        "productCode": "AG-102",
+        "name": "Cheese Ayam Gepuk Set",
+        "category": "Food",
+        "price": 15
+    },
+    {
+        "productCode": "AG-103",
+        "name": "Crispy Chicken Skin Set",
+        "category": "Food",
+        "price": 8
+    },
+    {
+        "productCode": "AG-201",
+        "name": "Extra Sambal Gepuk",
+        "category": "Add-on",
+        "price": 2
+    },
+    {
+        "productCode": "AG-201",
+        "name": "Extra Sambal Gepuk",
+        "category": "Add-on",
+        "price": 2
+    }
+]
